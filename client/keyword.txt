@@ -1,0 +1,9 @@
+   
+   npm install react-spinners --save
+   
+   https://www.react-spinners.com/
+   https://www.npmjs.com/package/react-spinners
+   
+   
+   npm install react-pose --save
+   https://popmotion.io/pose/
